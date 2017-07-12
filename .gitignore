@@ -1,0 +1,12 @@
+﻿bak/
+template.txt
+*.bak
+*.tmp
+*.exe
+*.zip
+*.$$$
+*.o
+*.log
+*.layout
+*.depend
+Thumbs.db
